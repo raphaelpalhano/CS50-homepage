@@ -1,0 +1,185 @@
+#CA h2
+{
+    position: absolute;
+    width: 533px;
+    height: 38px;
+    left: 100px;
+    top: 300px;
+
+    
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    
+    color: #000000;
+
+}
+
+.TI
+{
+
+position: absolute;
+width: 1003px;
+height: 223px;
+left: 3px;
+top: 400px;
+
+}
+
+#CA h3
+{
+position: absolute;
+width: 270px;
+height: 27px;
+left: 20px;
+top: 840px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+
+color: #000000;
+
+}
+
+.txt
+{
+position: absolute;
+width: 253px;
+height: 272px;
+left: 20px;
+top: 900px;
+
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
+
+.txt1
+{
+position: absolute;
+width: 253px;
+height: 272px;
+left: 20px;
+top: 950px;
+
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
+
+.txt2
+{
+position: absolute;
+width: 253px;
+height: 272px;
+left: 20px;
+top: 1300px;
+
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
+
+.HMC
+{
+position: absolute;
+width: 195px;
+height: 284px;
+left: 330px;
+top: 850px;
+
+}
+
+
+#CA h4
+{
+position: absolute;
+width: 270px;
+height: 27px;
+left: 20px;
+top: 1370px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+
+color: #000000;
+
+}
+
+
+.txt3
+{
+position: absolute;
+width: 253px;
+height: 272px;
+left: 20px;
+top: 1430px;
+
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
+
+.txt4
+{
+position: absolute;
+width: 253px;
+height: 272px;
+left: 20px;
+top: 1560px;
+
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
+
+
+.HIH
+{
+position: absolute;
+width: 195px;
+height: 284px;
+left: 330px;
+top: 1410px;
+}
+
+.SELC
+{
+width: 433px;
+  height: 170px;
+  left: 15px;
+  top: 100px;
+}

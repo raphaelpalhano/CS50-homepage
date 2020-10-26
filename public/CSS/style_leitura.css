@@ -1,0 +1,36 @@
+#CA
+{
+position: absolute;
+width: 746px;
+height: 1149px;
+background: #FFFFFF;
+
+
+}
+
+
+.cab{
+    position: absolute;
+    width: 746px;
+    height: 87px;
+    
+    background: #070000;
+    }
+
+
+.cab h1
+{
+    position: absolute;
+    width: 420px;
+    height: 58px;
+    
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 65px;
+    
+    color: #F9F3F3;
+}
+
+

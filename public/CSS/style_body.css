@@ -1,0 +1,131 @@
+#page-landing {
+  background: linear-gradient(329.54deg, #010405 0%, #010405 100%);
+  text-align: center;
+  min-height: 90vh;
+
+  display: flex;
+}
+
+#container {
+  margin: auto;
+  width: min(90%, 112rem);
+
+
+}
+
+.leitura {
+  animation-delay: 110ms;
+}
+
+.leitura h1 {
+  animation-delay: 115ms;
+}
+
+.serie {
+    animation-delay: 110ms;
+  }
+  
+  .serie h1 {
+    animation-delay: 115ms;
+  }
+  
+
+
+.leitura h1 {
+  position: absolute;
+  width: 433px;
+  height: 170px;
+  left: 15px;
+  top: 268px;
+
+  font-family: Nunito;
+  font-style: italic;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 131px;
+
+  color: #FCF7F7;
+}
+
+.serie h1
+{
+position: absolute;
+width: 401px;
+height: 116px;
+left: 65px;
+top: 266px;
+
+font-family: Nunito;
+font-style: italic;
+font-weight: 900;
+font-size: 96px;
+line-height: 131px;
+
+color: #FCF7F7;
+
+}
+
+.musculacao h1
+{
+    position: absolute;
+width: 449px;
+height: 116px;
+left: auto;
+top: 266px;
+
+font-family: Nunito;
+font-style: italic;
+font-weight: 900;
+font-size: 96px;
+line-height: 131px;
+
+color: #FCF7F7;
+
+}
+
+
+.leitura {
+  position: absolute;
+  width: 463px;
+  height: 822px;
+  padding: 20;
+  margin: auto;
+  left: 0px;
+  top: 0px;
+}
+
+
+.serie {
+  position: absolute;
+  width: 497px;
+  height: 828px;
+  margin: auto;
+  left: 463px;
+  top: 0px;
+}
+
+
+.musculacao
+{
+position: absolute;
+width: 480px;
+height: 820px;
+margin: auto;
+left: 960px;
+top: 0px;
+}
+
+
+.outra
+{
+position: absolute;
+width: 260px;
+height: 820px;
+left: 1405px;
+margin: auto;
+padding-left: auto;
+top: 0px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
